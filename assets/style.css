@@ -185,6 +185,12 @@ article p {
 article p a:hover {
   text-decoration: underline;
 }
+.text-decoration-underline {
+  color: #20a67a;
+}
+.text-decoration-underline:hover {
+  color: #167253;
+}
 
 footer {
   border-top: 1px solid #3a3a3a33;
